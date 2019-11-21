@@ -1,3 +1,5 @@
+Report is [here](./titanic_survival_exploration.ipynb). If you can not view the report, you can download project and check the **report.html** with a browser.
+
 ## Content: Introduction and Foundations
 ## Project: Titanic Survival Exploration
 
